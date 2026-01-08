@@ -27,3 +27,10 @@ Thumbs.db
 # Data files (too large for GitHub)
 tardis_binance_btc/
 
+# Project files to exclude
+volforecast.py
+preview_csvs.py
+manual.py
+manual.ipynb
+data.py
+
